@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## My github page
+
+*Experimental github page for setting up a blog like site.*
 
 You can use the [editor on GitHub](https://github.com/liu3tao/liu3tao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
